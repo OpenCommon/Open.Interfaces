@@ -1,6 +1,6 @@
 ﻿namespace Open.Interfaces;
 
-public interface IStoppable
+public interface IStop
 {
     void Stop();
 }

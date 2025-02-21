@@ -1,4 +1,4 @@
-﻿namespace Open.Interfaces;
+﻿namespace Open.Interfaces.Attributes;
 
 public class OrderAttribute : Attribute
 {

@@ -1,6 +1,6 @@
 ﻿namespace Open.Interfaces;
 
-public interface IRunnable
+public interface IRun
 {
     void Run();
 }
