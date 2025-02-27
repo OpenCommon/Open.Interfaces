@@ -1,6 +1,8 @@
 # Open Interfaces
 
-**Open Interfaces** is a lightweight .NET library that defines a set of commonly used service interfaces (e.g., `ILogService`, `IMessageService`, etc.). The library has minimal dependencies, relying only on .NET system libraries, and is designed to be integrated into various .NET projects as a foundational library.
+**Open Interfaces** is a lightweight .NET library that defines a set of commonly used service interfaces (
+e.g., `ILogService`, `IMessageService`, etc.). The library has minimal dependencies, relying only on .NET system
+libraries, and is designed to be integrated into various .NET projects as a foundational library.
 
 ## Features
 
@@ -59,7 +61,9 @@ This project is licensed under the [MIT License](https://chat.deepseek.com/a/cha
 
 ## Contact
 
-For any questions or suggestions, please open an issue on [GitHub Issues](https://github.com/OpenCommon/Open.Interfaces/issues) or email [opencoder@126.com](mailto:opencoder@126.com).
+For any questions or suggestions, please open an issue
+on [GitHub Issues](https://github.com/OpenCommon/Open.Interfaces/issues) or
+email [opencoder@126.com](mailto:opencoder@126.com).
 
 ------
 

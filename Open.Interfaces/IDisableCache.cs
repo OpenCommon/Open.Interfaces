@@ -3,7 +3,7 @@
 public interface IDisableCache
 {
     /// <summary>
-    /// Use cache or not
+    ///     DisableCache
     /// </summary>
-    bool DisableCache { get; set; }
+    void DisableCache();
 }

@@ -2,5 +2,5 @@
 
 public interface IFlush
 {
-	void Flush();
+    void Flush();
 }

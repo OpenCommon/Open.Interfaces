@@ -1,5 +1,6 @@
 ﻿namespace Open.Interfaces.LogMedia;
-public enum LogLevel : int
+
+public enum LogLevel
 {
     Debug,
     Info,

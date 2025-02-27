@@ -4,7 +4,6 @@ public class OrderAttribute : Attribute
 {
     public OrderAttribute()
     {
-
     }
 
     public OrderAttribute(int order)

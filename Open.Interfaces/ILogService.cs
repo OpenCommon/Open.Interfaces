@@ -1,7 +1,5 @@
 ﻿namespace Open.Interfaces;
 
-using System;
-
 public interface ILogService
 {
     void Debug(string message);

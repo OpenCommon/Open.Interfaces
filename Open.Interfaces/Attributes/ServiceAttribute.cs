@@ -4,7 +4,6 @@ public class ServiceAttribute : Attribute
 {
     public ServiceAttribute() : this(888)
     {
-
     }
 
     public ServiceAttribute(int initializeOrder)
